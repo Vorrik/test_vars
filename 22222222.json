@@ -1,54 +1,24 @@
 {
-    "status"
-:
-    "ok", "orders"
-:
-    {
-        "current"
-    :
-        1258, "previous"
-    :
-        581
-    }
-,
-    "ordersSum"
-:
-    {
-        "current" : 2345332, "previous" : 2365913
-    }
-,
-    "loosesPercent"
-:
-    {
-        "current"
-    :
-        1, "previous"
-    :
-        0
-    }
-,
-    "turnover"
-:
-    {
-        "current"
-    :
-        0, "previous"
-    :
-        0
-    }
-,
-    "seo"
-:
-    {
-        "current"
-    :
-        33.58, "previous"
-    :
-        25.72
-    }
-,
-   
-    "message"
-:
-    null
+   "status":"ok",
+   "orders":{
+      "current":1258,
+      "previous":581
+   },
+   "ordersSum":{
+      "current":2345332,
+      "previous":2365913
+   },
+   "loosesPercent":{
+      "current":1,
+      "previous":0
+   },
+   "turnover":{
+      "current":0,
+      "previous":0
+   },
+   "seo":{
+      "current":33.58,
+      "previous":25.72
+   },
+   "message":null
 }
